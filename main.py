@@ -1,4 +1,3 @@
-#!/home/shubham/proj/envs/scraping/bin/python3
 import requests
 import sys
 import os
